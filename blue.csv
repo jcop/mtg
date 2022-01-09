@@ -1,0 +1,202 @@
+Quantity, Name, CardNumber, Expansion Code, Expansion Name, PurchasePrice, Foil, Condition, Language, PurchaseDate, Single Current Price, Total Current Price
+1,"Abduction",55,6ed,Classic Sixth Edition,0.14,false,Mint,Portuguese,20200626,0.2,0.2
+1,"Abjure",31,wth,Weatherlight,0.1,false,Mint,English,20200621,0.25,0.25
+3,"Abjure",31,wth,Weatherlight,0.1,false,Mint,Portuguese,20200627,0.25,0.75
+1,"Air Elemental",71,5ed,Fifth Edition,0.05,false,Mint,English,20200626,0.05,0.05
+1,"Air Elemental",47,fbb,Foreign Black Border,0.0,false,Mint,Portuguese,20200626,0.0,0.0
+2,"Apathy",33,wth,Weatherlight,0.05,false,Mint,Portuguese,20200627,0.05,0.1
+1,"Apprentice Wizard",61,4bb,Fourth Edition Foreign Black Border,0.09,false,Mint,Portuguese,20200628,0.0,0.0
+2,"Arcane Denial",,all,Alliances,0.28,false,Mint,Portuguese,20200628,0.5,1.0
+1,"Argivian Restoration",34,wth,Weatherlight,0.15,false,Mint,Portuguese,20200626,0.14,0.14
+1,"Arnjlot's Ascent",57,ice,Ice Age,0.02,false,Mint,Portuguese,20200628,0.01,0.01
+1,"Awesome Presence",,all,Alliances,0.05,false,Mint,Portuguese,20200627,0.08,0.08
+2,"Azimaet Drake",53,mir,Mirage,0.04,false,Mint,English,20200626,0.01,0.02
+1,"Azimaet Drake",53,mir,Mirage,0.04,false,Mint,Portuguese,20200628,0.01,0.01
+2,"Azure Drake",8,brb,Battle Royale Box Set,0.1,false,Mint,English,20200626,0.09,0.18
+2,"Balduvian Shaman",59,ice,Ice Age,0.03,false,Mint,Portuguese,20200628,0.04,0.08
+2,"Bay Falcon",54,mir,Mirage,0.05,false,Mint,English,20200626,0.04,0.08
+2,"Bay Falcon",54,mir,Mirage,0.05,false,Mint,Portuguese,20200628,0.04,0.08
+1,"Bazaar of Wonders",55,mir,Mirage,0.25,false,Mint,Portuguese,20200626,1.95,1.95
+1,"Benthic Explorers",,all,Alliances,0.04,false,Mint,Portuguese,20200626,0.04,0.04
+3,"Betrayal",26,vis,Visions,0.08,false,Mint,English,20200621,0.09,0.27
+1,"Betrayal",26,vis,Visions,0.08,false,Mint,Portuguese,20200627,0.09,0.09
+1,"Boomerang",48,leg,Legends,0.07,false,Mint,English,20200621,0.69,0.69
+1,"Brainstorm",61,ice,Ice Age,0.4,false,Mint,English,20200621,0.33,0.33
+5,"Breezekeeper",27,vis,Visions,0.03,false,Mint,English,20200626,0.05,0.25
+2,"Breezekeeper",27,vis,Visions,0.03,false,Mint,Portuguese,20200626,0.05,0.1
+1,"Cerulean Wyvern",57,mir,Mirage,0.06,false,Mint,Portuguese,20200626,0.05,0.05
+1,"Chronatog",28,vis,Visions,0.25,false,Mint,English,20200626,1.99,1.99
+2,"Clairvoyance",63,ice,Ice Age,0.05,false,Mint,Portuguese,20200627,0.04,0.08
+1,"Cloak of Invisibility",58,mir,Mirage,0.05,false,Mint,English,20200621,0.04,0.04
+1,"Cloud Elemental",5,btd,Beatdown Box Set,0.05,false,Mint,English,20200626,0.08,0.08
+1,"Cloud Elemental",29,vis,Visions,0.02,false,Mint,Portuguese,20200628,0.02,0.02
+1,"Coral Fighters",59,mir,Mirage,0.05,false,Mint,English,20200626,0.04,0.04
+1,"Counterspell",77,5ed,Fifth Edition,0.57,false,Mint,English,20200621,1.07,1.07
+1,"Creature Bond",66,4ed,Fourth Edition,0.03,false,Mint,Portuguese,20200628,0.02,0.02
+2,"Dandân",79,5ed,Fifth Edition,0.03,false,Mint,English,20200626,0.07,0.14
+2,"Dark Maze",80,5ed,Fifth Edition,0.05,false,Mint,English,20200626,0.01,0.02
+1,"Dark Maze",,hml,Homelands,0.03,false,Mint,English,20200626,0.03,0.03
+3,"Dark Maze",,hml,Homelands,0.01,false,Mint,Portuguese,20200626,0.03,0.09
+1,"Diminishing Returns",26,all,Alliances,0.14,false,Mint,Portuguese,20200628,0.2,0.2
+1,"Dissipate",61,mir,Mirage,0.1,false,Mint,English,20200621,0.2,0.2
+1,"Dissipate",61,mir,Mirage,0.1,false,Mint,Portuguese,20200628,0.2,0.2
+1,"Drain Power",82,5ed,Fifth Edition,0.79,false,Mint,English,20200621,1.0,1.0
+1,"Dream Cache",62,mir,Mirage,0.01,false,Mint,English,20200621,0.05,0.05
+1,"Dream Fighter",63,mir,Mirage,0.04,false,Mint,Portuguese,20200628,0.02,0.02
+1,"Dream Tides",31,vis,Visions,0.25,false,Mint,English,20200621,0.27,0.27
+1,"Dreams of the Dead",66,ice,Ice Age,0.08,false,Mint,Portuguese,20200628,0.13,0.13
+1,"Enchantment Alteration",19,chr,Chronicles,0.07,false,Mint,English,20200621,0.03,0.03
+1,"Energy Tap",69,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200627,0.0,0.0
+1,"Enervate",84,5ed,Fifth Edition,0.05,false,Mint,English,20200621,0.05,0.05
+3,"Essence Flare",69,ice,Ice Age,0.01,false,NearMint,Portuguese,20200627,0.02,0.06
+1,"Ether Well",65,mir,Mirage,0.08,false,Mint,English,20200621,0.07,0.07
+2,"False Demise",,all,Alliances,0.05,false,Mint,Portuguese,20200628,0.05,0.1
+1,"Feedback",71,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,English,20200621,0.0,0.0
+2,"Fishliver Oil",13,arn,Arabian Nights,1.26,false,Mint,English,20200621,3.88,7.76
+1,"Flight",86,5ed,Fifth Edition,0.05,false,Mint,English,20200621,0.08,0.08
+1,"Flight",72,4ed,Fourth Edition,0.05,false,Mint,Portuguese,20200627,0.03,0.03
+1,"Flight",72,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200627,0.0,0.0
+1,"Flight",86,5ed,Fifth Edition,0.05,false,Mint,Portuguese,20200627,0.08,0.08
+1,"Flood",87,5ed,Fifth Edition,0.06,false,Mint,Portuguese,20200627,0.06,0.06
+1,"Flux",39,wth,Weatherlight,0.1,false,Mint,English,20200621,0.1,0.1
+3,"Flux",39,wth,Weatherlight,0.1,false,Mint,Portuguese,20200628,0.1,0.3
+1,"Fog Elemental",7,btd,Beatdown Box Set,0.05,false,Mint,English,20200626,0.1,0.1
+2,"Fog Elemental",40,wth,Weatherlight,0.04,false,Mint,Portuguese,20200628,0.03,0.06
+2,"Force Void",70,ice,Ice Age,0.05,false,Mint,Portuguese,20200628,0.04,0.08
+1,"Force of Will",28,all,Alliances,85.0,false,Mint,Portuguese,20200626,95.0,95.0
+1,"Foreshadow",33,vis,Visions,0.05,false,Mint,English,20200621,0.08,0.08
+2,"Foresight",,all,Alliances,0.05,false,Mint,Portuguese,20200628,0.09,0.18
+3,"Foresight",,all,Alliances,0.1,false,Mint,Portuguese,20200628,0.15,0.45
+2,"Gaseous Form",90,5ed,Fifth Edition,0.03,false,Mint,English,20200621,0.04,0.08
+1,"Gaseous Form",32,ren,Renaissance,0.0,false,Mint,Portuguese,20200628,0.0,0.0
+1,"Ghost Ship",21,tsb,Time Spiral Timeshifted,0.05,false,Mint,Portuguese,20200626,0.08,0.08
+1,"Giant Oyster",22,tsb,Time Spiral Timeshifted,0.07,false,Mint,Portuguese,20200626,0.07,0.07
+1,"Harmattan Efreet",73,6ed,Classic Sixth Edition,0.04,false,Mint,English,20200626,0.04,0.04
+1,"High Tide",,fem,Fallen Empires,0.23,false,Mint,English,20200621,0.45,0.45
+1,"High Tide",,fem,Fallen Empires,0.2,false,Mint,English,20200621,0.33,0.33
+2,"Homarid Warrior",92,5ed,Fifth Edition,0.05,false,Mint,English,20200626,0.05,0.1
+2,"Hurkyl's Recall",60,3ed,Revised Edition,1.0,false,Mint,Portuguese,20200628,2.45,4.9
+1,"Hydroblast",72,ice,Ice Age,0.19,false,Mint,Portuguese,20200627,0.25,0.25
+1,"Illusionary Wall",78,ice,Ice Age,0.05,false,Mint,Portuguese,20200626,0.04,0.04
+1,"Illusions of Grandeur",79,ice,Ice Age,3.61,false,Mint,Portuguese,20200628,7.99,7.99
+2,"Impulse",34,vis,Visions,0.2,false,Mint,English,20200621,0.25,0.5
+2,"Inspiration",35,vis,Visions,0.03,false,Mint,English,20200621,0.04,0.08
+1,"Island Fish Jasconius",78,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200626,0.0,0.0
+1,"Jolt",70,mir,Mirage,0.04,false,Mint,English,20200621,0.04,0.04
+1,"Jump",79,4ed,Fourth Edition,1.25,false,Mint,Portuguese,20200627,0.02,0.02
+1,"Knight of the Mists",36,vis,Visions,0.03,false,Mint,English,20200626,0.03,0.03
+1,"Krovikan Sorcerer",96,5ed,Fifth Edition,0.03,false,Mint,English,20200626,0.05,0.05
+1,"Krovikan Sorcerer",96,5ed,Fifth Edition,0.03,false,Mint,Portuguese,20200628,0.05,0.05
+1,"Labyrinth Minotaur",,hml,Homelands,0.03,false,Mint,English,20200626,0.03,0.03
+1,"Labyrinth Minotaur",97,5ed,Fifth Edition,0.05,false,Mint,Portuguese,20200626,0.05,0.05
+2,"Lat-Nam's Legacy",,all,Alliances,0.03,false,Mint,Portuguese,20200628,0.07,0.14
+1,"Lat-Nam's Legacy",,all,Alliances,0.09,false,Mint,Portuguese,20200628,0.1,0.1
+1,"Lifetap",61,lea,Limited Edition Alpha,57.7,false,Mint,Portuguese,20200628,106.99,106.99
+1,"Lord of Atlantis",64,3ed,Revised Edition,2.52,false,Mint,Portuguese,20200628,6.64,6.64
+1,"Magus of the Unseen",82,ice,Ice Age,0.23,false,Mint,English,20200626,0.25,0.25
+1,"Mahamoti Djinn",65,leb,Limited Edition Beta,299.99,false,Mint,Portuguese,20200626,650.0,650.0
+1,"Man-o'-War",2,pal02,Arena League 2002,0.0,false,Mint,English,20200626,0.0,0.0
+1,"Mana Chains",41,wth,Weatherlight,0.04,false,Mint,English,20200621,0.04,0.04
+5,"Mana Chains",41,wth,Weatherlight,0.04,false,Mint,Portuguese,20200627,0.04,0.2
+1,"Manta Ray",42,wth,Weatherlight,0.03,false,Mint,English,20200626,0.03,0.03
+4,"Manta Ray",42,wth,Weatherlight,0.03,false,Mint,Portuguese,20200628,0.03,0.12
+1,"Meddle",73,mir,Mirage,0.06,false,Mint,English,20200621,0.05,0.05
+2,"Memory Lapse",74,mir,Mirage,0.05,false,Mint,English,20200621,0.06,0.12
+2,"Memory Lapse",103,5ed,Fifth Edition,0.08,false,Mint,English,20200621,0.14,0.28
+2,"Memory Lapse",74,mir,Mirage,0.05,false,Mint,Portuguese,20200628,0.06,0.12
+1,"Merfolk Raiders",75,mir,Mirage,0.05,false,Mint,Portuguese,20200628,0.04,0.04
+2,"Merfolk Seer",76,mir,Mirage,0.03,false,Mint,English,20200626,0.03,0.06
+2,"Merfolk Traders",43,wth,Weatherlight,0.05,false,Mint,Portuguese,20200628,0.04,0.08
+1,"Merfolk of the Pearl Trident",104,5ed,Fifth Edition,0.03,false,Mint,English,20200626,0.03,0.03
+1,"Merfolk of the Pearl Trident",86,4ed,Fourth Edition,0.03,false,Mint,Portuguese,20200627,0.03,0.03
+2,"Merfolk of the Pearl Trident",86,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200627,0.0,0.0
+1,"Mind Bomb",87,4ed,Fourth Edition,0.07,false,Mint,Portuguese,20200627,0.07,0.07
+1,"Mystic Veil",38,vis,Visions,0.05,false,Mint,English,20200621,0.02,0.02
+2,"Noble Benefactor",44,wth,Weatherlight,0.2,false,Mint,English,20200626,0.25,0.5
+1,"Noble Benefactor",44,wth,Weatherlight,0.2,false,Mint,Portuguese,20200628,0.25,0.25
+2,"Ovinomancer",27,tsb,Time Spiral Timeshifted,0.08,false,Mint,English,20200626,0.1,0.2
+1,"Pendrell Mists",47,wth,Weatherlight,3.44,false,Mint,Portuguese,20200626,11.95,11.95
+1,"Phantasmal Forces",67,lea,Limited Edition Alpha,48.08,false,Mint,English,20200626,203.99,203.99
+1,"Phantom Monster",108,5ed,Fifth Edition,0.08,false,Mint,English,20200626,0.09,0.09
+1,"Phantom Warrior",48,wth,Weatherlight,0.02,false,Mint,Portuguese,20200628,0.08,0.08
+2,"Portent",110,5ed,Fifth Edition,0.16,false,Mint,English,20200621,0.2,0.4
+2,"Portent",110,5ed,Fifth Edition,0.16,false,Mint,Portuguese,20200627,0.2,0.4
+1,"Power Leak",92,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200628,0.0,0.0
+1,"Power Sink",83,mir,Mirage,0.05,false,Mint,Portuguese,20200626,0.04,0.04
+3,"Prodigal Sorcerer",112,5ed,Fifth Edition,0.05,false,Mint,English,20200626,0.05,0.15
+1,"Psychic Transfer",85,mir,Mirage,0.1,false,Mint,English,20200621,0.13,0.13
+1,"Psychic Venom",76,3ed,Revised Edition,0.05,false,Mint,Portuguese,20200628,0.07,0.07
+1,"Ray of Command",86,mir,Mirage,0.06,false,Mint,English,20200621,0.04,0.04
+2,"Ray of Command",114,5ed,Fifth Edition,0.06,false,Mint,English,20200621,0.04,0.08
+1,"Reality Ripple",87,mir,Mirage,0.03,false,Mint,English,20200621,0.03,0.03
+1,"Recall",115,5ed,Fifth Edition,0.2,false,Mint,English,20200621,0.25,0.25
+1,"Recall",70,leg,Legends,40.49,false,Mint,English,20200621,82.77,82.77
+2,"Reef Pirates",,hml,Homelands,0.03,false,Mint,English,20200626,0.02,0.04
+1,"Relearn",48,s99,Starter 1999,0.17,false,Mint,Portuguese,20200628,0.1,0.1
+1,"Relic Bind",97,4ed,Fourth Edition,0.09,false,Mint,Portuguese,20200628,0.1,0.1
+1,"Sage Owl",52,wth,Weatherlight,0.05,false,Mint,English,20200626,0.04,0.04
+1,"Sage Owl",52,wth,Weatherlight,0.05,false,Mint,Portuguese,20200628,0.04,0.04
+5,"Sandbar Crocodile",88,mir,Mirage,0.02,false,Mint,English,20200626,0.01,0.05
+2,"Sandbar Crocodile",88,mir,Mirage,0.02,false,Mint,Portuguese,20200626,0.01,0.02
+2,"Sea Scryer",90,mir,Mirage,0.08,false,Mint,English,20200626,0.07,0.14
+2,"Sea Serpent",118,5ed,Fifth Edition,0.04,false,Mint,English,20200626,0.04,0.08
+1,"Sea Serpent",78,fbb,Foreign Black Border,0.0,false,Mint,Portuguese,20200626,0.0,0.0
+1,"Sea Spirit",119,5ed,Fifth Edition,0.08,false,Mint,English,20200626,0.09,0.09
+1,"Sea Sprite",120,5ed,Fifth Edition,0.1,false,Mint,English,20200626,0.17,0.17
+1,"Seasinger",121,5ed,Fifth Edition,0.1,false,Mint,English,20200626,0.15,0.15
+1,"Segovian Leviathan",97,6ed,Classic Sixth Edition,0.07,false,Mint,English,20200626,0.08,0.08
+1,"Shaper Guildmage",91,mir,Mirage,0.03,false,Mint,English,20200626,0.02,0.02
+1,"Shaper Guildmage",91,mir,Mirage,0.03,false,Mint,Portuguese,20200627,0.02,0.02
+1,"Shimmer",92,mir,Mirage,1.4,false,Mint,English,20200621,3.5,3.5
+1,"Shimmering Efreet",42,vis,Visions,0.1,false,Mint,English,20200626,0.11,0.11
+2,"Shrieking Drake",43,vis,Visions,0.99,false,Mint,English,20200626,0.31,0.62
+1,"Siren's Call",101,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200627,0.0,0.0
+3,"Soldevi Heretic",,all,Alliances,0.04,false,Mint,Portuguese,20200628,0.02,0.06
+1,"Soldevi Heretic",,all,Alliances,0.04,false,Mint,Portuguese,20200628,0.04,0.04
+3,"Soldevi Sage",,all,Alliances,0.04,false,Mint,Portuguese,20200628,0.02,0.06
+1,"Soldevi Sage",,all,Alliances,0.04,false,Mint,Portuguese,20200628,0.05,0.05
+1,"Soul Barrier",103,ice,Ice Age,0.09,false,Mint,English,20200621,0.2,0.2
+1,"Soul Barrier",125,5ed,Fifth Edition,0.08,false,Mint,English,20200621,0.13,0.13
+1,"Soul Barrier",103,ice,Ice Age,0.09,false,Mint,Portuguese,20200628,0.2,0.2
+1,"Spell Blast",126,5ed,Fifth Edition,0.05,false,Mint,English,20200621,0.04,0.04
+1,"Storm Crow",,all,Alliances,0.07,false,Mint,Portuguese,20200628,0.07,0.07
+1,"Storm Elemental",37,all,Alliances,0.04,false,NearMint,Portuguese,20200626,0.04,0.04
+2,"Suffocation",38,all,Alliances,0.04,false,Mint,Portuguese,20200628,0.05,0.1
+1,"Sunken City",106,4bb,Fourth Edition Foreign Black Border,0.05,false,Mint,Portuguese,20200628,0.0,0.0
+1,"Teferi's Curse",96,mir,Mirage,0.05,false,Mint,Portuguese,20200628,0.04,0.04
+2,"Teferi's Drake",97,mir,Mirage,0.03,false,Mint,English,20200626,0.03,0.06
+1,"Teferi's Drake",97,mir,Mirage,0.03,false,Mint,Portuguese,20200628,0.03,0.03
+1,"Thirst",99,mir,Mirage,0.03,false,Mint,English,20200621,0.02,0.02
+1,"Tidal Control",40,all,Alliances,0.39,false,Mint,Portuguese,20200628,1.69,1.69
+2,"Tidal Flats",,fem,Fallen Empires,0.03,false,Mint,English,20200621,0.04,0.08
+1,"Time and Tide",46,vis,Visions,0.05,false,Mint,English,20200621,0.08,0.08
+1,"Time and Tide",46,vis,Visions,0.05,false,Mint,Portuguese,20200628,0.08,0.08
+1,"Timid Drake",54,wth,Weatherlight,0.06,false,Mint,Portuguese,20200628,0.05,0.05
+1,"Tolarian Drake",55,wth,Weatherlight,0.04,false,Mint,English,20200626,0.04,0.04
+1,"Tolarian Drake",55,wth,Weatherlight,0.04,false,Mint,Portuguese,20200628,0.04,0.04
+2,"Twiddle",85,lea,Limited Edition Alpha,19.64,false,Mint,English,20200621,90.0,180.0
+1,"Twiddle",86,2ed,Unlimited Edition,1.01,false,Mint,Portuguese,20200627,1.85,1.85
+3,"Undo",47,vis,Visions,0.04,false,Mint,English,20200621,0.05,0.15
+2,"Unstable Mutation",131,5ed,Fifth Edition,0.05,false,Mint,English,20200621,0.05,0.1
+1,"Unstable Mutation",131,5ed,Fifth Edition,0.05,false,Mint,Portuguese,20200627,0.05,0.05
+1,"Unsummon",132,5ed,Fifth Edition,0.01,false,Mint,Portuguese,20200627,0.09,0.09
+2,"Updraft",133,5ed,Fifth Edition,0.05,false,Mint,English,20200621,0.05,0.1
+2,"Vanishing",48,vis,Visions,0.2,false,NearMint,English,20200621,0.2,0.4
+4,"Vanishing",48,vis,Visions,0.2,false,Mint,English,20200621,0.2,0.8
+1,"Vaporous Djinn",101,mir,Mirage,0.05,false,Mint,English,20200626,0.05,0.05
+3,"Viscerid Armor",,all,Alliances,0.03,false,Mint,Portuguese,20200628,0.04,0.12
+1,"Vision Charm",49,vis,Visions,0.09,false,Mint,English,20200621,0.09,0.09
+1,"Vodalian Illusionist",58,wth,Weatherlight,0.2,false,Mint,Portuguese,20200628,0.23,0.23
+1,"Vodalian Mage",,fem,Fallen Empires,0.04,false,Mint,English,20200626,0.07,0.07
+4,"Vodalian Soldiers",,fem,Fallen Empires,0.04,false,Mint,English,20200626,0.04,0.16
+1,"Vodalian Soldiers",,fem,Fallen Empires,0.04,false,Mint,Portuguese,20200628,0.04,0.04
+2,"Wall of Vapor",27,chr,Chronicles,0.03,false,Mint,English,20200626,0.02,0.04
+1,"Wall of Wonder",28,chr,Chronicles,0.04,false,Mint,English,20200626,0.03,0.03
+1,"Waterspout Djinn",11,jvc,Duel Decks Anthology: Jace vs. Chandra,0.03,false,Mint,English,20200626,0.05,0.05
+2,"Wave Elemental",102,mir,Mirage,0.05,false,Mint,English,20200626,0.06,0.12
+1,"Wind Spirit",136,5ed,Fifth Edition,0.05,false,Mint,English,20200626,0.05,0.05
+1,"Wrath of Marit Lage",109,ice,Ice Age,0.15,false,Mint,Portuguese,20200626,0.2,0.2
+1,"Zephyr Falcon",116,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,English,20200626,0.0,0.0
+1,"Zephyr Falcon",116,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200628,0.0,0.0
+1,"Zephyr Falcon",137,5ed,Fifth Edition,0.03,false,Mint,Portuguese,20200628,0.03,0.03
+1,"Zuran Spellcaster",112,cst,Coldsnap Theme Decks,0.16,false,Mint,Portuguese,20200628,0.19,0.19

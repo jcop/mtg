@@ -1,0 +1,215 @@
+Quantity, Name, CardNumber, Expansion Code, Expansion Name, PurchasePrice, Foil, Condition, Language, PurchaseDate, Single Current Price, Total Current Price
+2,"Abbey Matron",,hml,Homelands,0.04,false,Mint,English,20200822,0.04,0.08
+2,"Abbey Matron",,hml,Homelands,0.04,false,NearMint,Portuguese,20200822,0.02,0.04
+1,"Adarkar Unicorn",1,ice,Ice Age,0.03,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Afterlife",1,mir,Mirage,0.07,false,Mint,English,20200822,0.06,0.06
+2,"Akron Legionnaire",2,5ed,Fifth Edition,0.1,false,Mint,English,20200822,0.18,0.36
+1,"Alabaster Dragon",2,wth,Weatherlight,0.2,false,Mint,Portuguese,20200822,0.32,0.32
+2,"Alabaster Potion",3,5ed,Fifth Edition,0.05,false,Mint,Portuguese,20200822,0.01,0.02
+1,"Alarum",2,mir,Mirage,0.04,false,Mint,English,20200822,0.01,0.01
+3,"Alms",3,wth,Weatherlight,0.01,false,Mint,English,20200822,0.03,0.09
+2,"Amrou Kithkin",2,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200822,0.0,0.0
+1,"Amrou Kithkin",2,4bb,Fourth Edition Foreign Black Border,0.04,false,Mint,Portuguese,20200822,0.0,0.0
+2,"Angelic Renewal",4,wth,Weatherlight,0.08,false,Mint,Portuguese,20200822,0.14,0.28
+1,"Animate Wall",5,5ed,Fifth Edition,0.14,false,Mint,English,20200822,0.2,0.2
+1,"Archangel",1,vis,Visions,0.22,false,Mint,Portuguese,20200822,0.22,0.22
+1,"Ardent Militia",5,wth,Weatherlight,0.03,false,Mint,English,20200822,0.03,0.03
+3,"Ardent Militia",3,6ed,Classic Sixth Edition,0.05,false,Mint,Portuguese,20200822,0.04,0.12
+1,"Arenson's Aura",6,5ed,Fifth Edition,0.08,false,Mint,English,20200822,0.05,0.05
+1,"Arenson's Aura",3,ice,Ice Age,0.03,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Armor of Faith",8,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Aura of Silence",7,wth,Weatherlight,2.24,false,Mint,Portuguese,20200822,2.99,2.99
+1,"Aysen Bureaucrats",,hml,Homelands,0.02,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Aysen Bureaucrats",9,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Aysen Bureaucrats",,hml,Homelands,0.02,false,Mint,English,20200822,0.05,0.05
+2,"Benalish Hero",10,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.07,0.14
+2,"Benalish Infantry",8,wth,Weatherlight,0.03,false,Mint,Portuguese,20200822,0.05,0.1
+1,"Benalish Knight",9,wth,Weatherlight,0.05,false,Mint,English,20200822,0.04,0.04
+1,"Benalish Knight",9,wth,Weatherlight,0.05,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Benalish Missionary",10,wth,Weatherlight,0.03,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Benevolent Unicorn",4,mir,Mirage,0.05,false,Mint,English,20200822,0.04,0.04
+1,"Blessed Wine",7,ice,Ice Age,0.03,false,Mint,English,20200822,0.01,0.01
+1,"Blessed Wine",11,5ed,Fifth Edition,0.04,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Blood of the Martyr",2,drk,The Dark,0.15,false,Mint,English,20200822,0.35,0.35
+1,"Brainwash",13,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Brainwash",13,5ed,Fifth Edition,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Brainwash",6,ren,Renaissance,0.0,false,Mint,Portuguese,20200822,0.0,0.0
+3,"Carrier Pigeons",,all,Alliances,0.03,false,Mint,Portuguese,20200822,0.07,0.21
+2,"Carrier Pigeons",,all,Alliances,0.04,false,Mint,Portuguese,20200822,0.03,0.06
+1,"Castle",12,4ed,Fourth Edition,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Circle of Protection: Artifacts",16,5ed,Fifth Edition,0.04,false,Mint,English,20200822,0.08,0.08
+2,"Circle of Protection: Black",17,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.06,0.12
+1,"Circle of Protection: Black",14,4ed,Fourth Edition,0.05,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Circle of Protection: Blue",18,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Circle of Protection: Green",19,5ed,Fifth Edition,0.06,false,Mint,English,20200822,0.01,0.01
+1,"Circle of Protection: Green",14,ice,Ice Age,0.02,false,Mint,English,20200822,0.02,0.02
+1,"Circle of Protection: Green",16,4ed,Fourth Edition,0.06,false,Mint,English,20200822,0.05,0.05
+2,"Circle of Protection: Red",20,5ed,Fifth Edition,0.06,false,Mint,English,20200822,0.07,0.14
+2,"Circle of Protection: Red",15,ice,Ice Age,0.06,false,Mint,Portuguese,20200822,0.04,0.08
+1,"Circle of Protection: Red",17,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200822,0.0,0.0
+3,"Circle of Protection: White",21,5ed,Fifth Edition,0.03,false,Mint,English,20200822,0.04,0.12
+1,"Circle of Protection: White",21,5ed,Fifth Edition,0.03,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Circle of Protection: White",16,ice,Ice Age,0.03,false,Mint,Portuguese,20200822,0.03,0.03
+1,"Civic Guildmage",7,mir,Mirage,0.04,false,Mint,English,20200822,0.03,0.03
+1,"Combat Medic",,fem,Fallen Empires,0.04,false,Mint,English,20200822,0.01,0.01
+1,"Conversion",19,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200822,0.0,0.0
+1,"Cooperation",18,ice,Ice Age,0.04,false,Mint,Portuguese,20200822,0.04,0.04
+1,"D'Avenant Archer",15,6ed,Classic Sixth Edition,0.03,false,Mint,English,20200822,0.03,0.03
+2,"Daraja Griffin",2,vis,Visions,0.06,false,Mint,English,20200822,0.06,0.12
+1,"Dazzling Beauty",8,mir,Mirage,0.04,false,Mint,English,20200822,0.03,0.03
+2,"Death Speakers",24,5ed,Fifth Edition,0.1,false,Mint,English,20200822,0.1,0.2
+3,"Death Ward",21,4ed,Fourth Edition,0.05,false,NearMint,English,20200822,0.04,0.12
+1,"Death Ward",21,4ed,Fourth Edition,0.05,false,Mint,Portuguese,20200822,0.04,0.04
+2,"Disenchant",22,4bb,Fourth Edition Foreign Black Border,13.94,false,Mint,Portuguese,20200822,0.0,0.0
+1,"Disenchant",22,4ed,Fourth Edition,0.07,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Disenchant",10,mir,Mirage,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Disenchant",26,5ed,Fifth Edition,0.07,false,Mint,Portuguese,20200822,0.05,0.05
+3,"Disenchant",26,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.15
+3,"Divine Offering",27,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.04,0.12
+3,"Divine Offering",9,leg,Legends,0.25,false,Mint,English,20200822,0.29,0.87
+2,"Divine Offering",11,mir,Mirage,0.04,false,Mint,English,20200822,0.03,0.06
+2,"Divine Offering",11,mir,Mirage,0.04,false,Mint,Portuguese,20200822,0.03,0.06
+1,"Divine Transformation",28,5ed,Fifth Edition,0.08,false,Mint,English,20200822,0.08,0.08
+1,"Duskrider Falcon",12,wth,Weatherlight,0.05,false,Mint,English,20200822,0.04,0.04
+1,"Duskrider Falcon",12,wth,Weatherlight,0.05,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Ekundu Griffin",13,mir,Mirage,0.04,false,Mint,English,20200822,0.03,0.03
+1,"Empyrial Armor",13,wth,Weatherlight,0.1,false,Mint,English,20200822,0.09,0.09
+1,"Errand of Duty",,all,Alliances,0.02,false,Mint,Portuguese,20200822,0.03,0.03
+2,"Errand of Duty",,all,Alliances,0.08,false,Mint,Portuguese,20200822,0.05,0.1
+2,"Ethereal Champion",15,mir,Mirage,0.12,false,Mint,English,20200822,0.18,0.36
+2,"Farrel's Zealot",,fem,Fallen Empires,0.04,false,Mint,English,20200822,0.05,0.1
+2,"Farrelite Priest",4,fem,Fallen Empires,0.04,false,Mint,English,20200822,0.04,0.08
+2,"Femeref Healer",17,mir,Mirage,0.03,false,Mint,English,20200822,0.02,0.04
+3,"Femeref Knight",18,mir,Mirage,0.04,false,Mint,English,20200822,0.02,0.06
+1,"Femeref Knight",18,mir,Mirage,0.04,false,Mint,Portuguese,20200822,0.02,0.02
+1,"Femeref Scouts",19,mir,Mirage,0.03,false,Mint,Portuguese,20200822,0.02,0.02
+1,"Formation",25,ice,Ice Age,0.33,false,Mint,Portuguese,20200822,0.33,0.33
+3,"Freewind Falcon",5,vis,Visions,0.05,false,Mint,English,20200822,0.05,0.15
+1,"Fylgja",26,ice,Ice Age,0.04,false,Mint,Portuguese,20200822,0.03,0.03
+1,"Gerrard's Wisdom",15,wth,Weatherlight,0.06,false,Mint,Portuguese,20200822,0.05,0.05
+4,"Gossamer Chains",6,vis,Visions,0.08,false,Mint,Portuguese,20200822,0.09,0.36
+1,"Greater Realm of Preservation",31,5ed,Fifth Edition,0.08,false,Mint,English,20200822,0.08,0.08
+1,"Guided Strike",16,wth,Weatherlight,0.04,false,Mint,English,20200822,0.04,0.04
+1,"Guided Strike",16,wth,Weatherlight,0.04,false,Mint,Portuguese,20200822,0.04,0.04
+2,"Heal",32,5ed,Fifth Edition,0.09,false,Mint,English,20200822,0.12,0.24
+1,"Heal",30,ice,Ice Age,0.06,false,Mint,Portuguese,20200822,0.04,0.04
+2,"Healing Salve",33,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.1
+2,"Healing Salve",28,4ed,Fourth Edition,0.05,false,Mint,Portuguese,20200822,0.03,0.06
+1,"Heavy Ballista",17,wth,Weatherlight,0.04,false,Mint,English,20200822,0.04,0.04
+3,"Heavy Ballista",17,wth,Weatherlight,0.04,false,Mint,Portuguese,20200822,0.04,0.12
+3,"Hipparion",34,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.15
+1,"Holy Armor",29,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200822,0.0,0.0
+1,"Holy Strength",30,4ed,Fourth Edition,0.05,false,Mint,English,20200822,0.03,0.03
+1,"Holy Strength",30,4ed,Fourth Edition,0.04,false,Mint,Portuguese,20200822,0.03,0.03
+2,"Holy Strength",30,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200822,0.0,0.0
+1,"Honorable Passage",7,vis,Visions,0.05,false,Mint,English,20200822,0.05,0.05
+3,"Hope Charm",8,vis,Visions,0.05,false,Mint,English,20200822,0.03,0.09
+2,"Hope Charm",8,vis,Visions,0.05,false,Mint,Portuguese,20200822,0.03,0.06
+1,"Icatian Moneychanger",,fem,Fallen Empires,0.06,false,Mint,English,20200822,0.01,0.01
+1,"Icatian Scout",37,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.04,0.04
+1,"Icatian Scout",,fem,Fallen Empires,0.06,false,NearMint,English,20200822,0.04,0.04
+1,"Icatian Town",38,5ed,Fifth Edition,0.19,false,Mint,English,20200822,0.19,0.19
+3,"Indestructible Aura",7,chr,Chronicles,0.02,false,Mint,English,20200822,0.02,0.06
+1,"Infantry Veteran",9,vis,Visions,0.01,false,Mint,English,20200822,0.02,0.02
+1,"Infantry Veteran",9,vis,Visions,0.02,false,Mint,Portuguese,20200822,0.02,0.02
+1,"Iron Tusk Elephant",22,mir,Mirage,0.08,false,Mint,English,20200822,0.08,0.08
+1,"Iron Tusk Elephant",22,mir,Mirage,0.08,false,Mint,Portuguese,20200822,0.08,0.08
+2,"Ivory Charm",23,mir,Mirage,0.05,false,Mint,English,20200822,0.02,0.04
+2,"Jabari's Influence",24,mir,Mirage,0.24,false,Mint,Portuguese,20200822,1.69,3.38
+2,"Jamuraan Lion",10,vis,Visions,0.05,false,Mint,English,20200822,0.05,0.1
+2,"Justice",41,5ed,Fifth Edition,0.04,false,Mint,Portuguese,20200822,0.08,0.16
+1,"Karma",42,5ed,Fifth Edition,0.08,false,Mint,Portuguese,20200822,0.08,0.08
+1,"Keepers of the Faith",24,leg,Legends,0.1,false,Mint,English,20200822,0.14,0.14
+1,"Kismet",43,5ed,Fifth Edition,0.51,false,Mint,English,20200822,0.6,0.6
+3,"Kithkin Armor",19,wth,Weatherlight,0.05,false,Mint,Portuguese,20200822,0.04,0.12
+1,"Kjeldoran Elite Guard",34,ice,Ice Age,0.07,false,Mint,Portuguese,20200822,0.06,0.06
+3,"Kjeldoran Escort",,all,Alliances,0.03,false,Mint,Portuguese,20200822,0.02,0.06
+2,"Kjeldoran Escort",,all,Alliances,0.03,false,Mint,Portuguese,20200822,0.04,0.08
+1,"Kjeldoran Pride",,all,Alliances,0.05,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Kjeldoran Pride",,all,Alliances,0.04,false,Mint,Portuguese,20200822,0.03,0.03
+2,"Kjeldoran Skyknight",40,ice,Ice Age,0.03,false,Mint,Portuguese,20200822,0.04,0.08
+3,"Knight of Valor",11,vis,Visions,0.03,false,Mint,English,20200822,0.05,0.15
+1,"Leeches",9,hml,Homelands,0.44,false,Mint,English,20200822,0.9,0.9
+1,"Leeches",9,hml,Homelands,0.44,false,Mint,Portuguese,20200822,0.9,0.9
+1,"Longbow Archer",12,vis,Visions,0.06,false,Mint,English,20200822,0.06,0.06
+1,"Mangara's Equity",26,mir,Mirage,0.06,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Mangara's Equity",26,mir,Mirage,0.06,false,Mint,English,20200822,0.04,0.04
+1,"Martyrdom",,all,Alliances,0.07,false,Mint,English,20200822,0.09,0.09
+3,"Martyrdom",,all,Alliances,0.04,false,Mint,Portuguese,20200822,0.04,0.12
+1,"Master of Arms",20,wth,Weatherlight,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Melesse Spirit",27,mir,Mirage,0.08,false,Mint,English,20200822,0.1,0.1
+1,"Mesa Falcon",46,5ed,Fifth Edition,0.04,false,Mint,English,20200822,0.04,0.04
+2,"Mesa Pegasus",47,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.1
+1,"Mesa Pegasus",47,5ed,Fifth Edition,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Morale",36,4ed,Fourth Edition,0.05,false,Mint,Portuguese,20200822,0.03,0.03
+2,"Noble Elephant",30,mir,Mirage,0.03,false,Mint,English,20200822,0.02,0.04
+2,"Noble Elephant",30,mir,Mirage,0.03,false,Mint,Portuguese,20200822,0.02,0.04
+1,"Noble Steeds",,all,Alliances,0.06,false,Mint,Portuguese,20200822,0.06,0.06
+1,"Noble Steeds",,all,Alliances,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Osai Vultures",38,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Portuguese,20200822,0.0,0.0
+2,"Pacifism",32,mir,Mirage,0.09,false,Mint,English,20200822,0.01,0.02
+2,"Pacifism",32,mir,Mirage,0.02,false,Mint,Portuguese,20200822,0.01,0.02
+3,"Parapet",14,vis,Visions,0.04,false,Mint,English,20200822,0.05,0.15
+1,"Pearled Unicorn",50,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+3,"Pearled Unicorn",39,4ed,Fourth Edition,0.05,false,Mint,Portuguese,20200822,0.04,0.12
+1,"Petra Sphinx",10,chr,Chronicles,0.14,false,Mint,English,20200822,0.2,0.2
+2,"Piety",8,arn,Arabian Nights,0.8,false,Mint,Portuguese,20200822,3.79,7.58
+1,"Pikemen",52,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Pikemen",42,4ed,Fourth Edition,0.04,false,Mint,Portuguese,20200822,0.03,0.03
+3,"Prismatic Circle",34,mir,Mirage,0.03,false,Mint,English,20200822,0.03,0.09
+1,"Prismatic Circle",34,mir,Mirage,0.03,false,Mint,Portuguese,20200822,0.03,0.03
+3,"Prismatic Ward",53,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.04,0.12
+1,"Prismatic Ward",47,ice,Ice Age,0.02,false,Mint,Portuguese,20200822,0.01,0.01
+1,"Rashka the Slayer",12,hml,Homelands,0.07,false,Mint,Portuguese,20200822,0.06,0.06
+1,"Reinforcements",,all,Alliances,0.07,false,Mint,Portuguese,20200822,0.07,0.07
+3,"Remedy",17,vis,Visions,0.02,false,Mint,English,20200822,0.02,0.06
+1,"Remedy",17,vis,Visions,0.02,false,Mint,French,20200822,0.02,0.02
+2,"Repentant Blacksmith",54,5ed,Fifth Edition,0.03,false,Mint,English,20200822,0.02,0.04
+1,"Repentant Blacksmith",9,arn,Arabian Nights,56.49,false,Mint,English,20200822,46.82,46.82
+5,"Reprisal",,all,Alliances,0.04,false,Mint,Portuguese,20200822,0.04,0.2
+1,"Resistance Fighter",18,vis,Visions,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Resistance Fighter",18,vis,Visions,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Revered Unicorn",23,wth,Weatherlight,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Reverse Damage",55,5ed,Fifth Edition,0.1,false,Mint,English,20200822,0.23,0.23
+2,"Righteous Aura",20,vis,Visions,0.07,false,Mint,English,20200822,0.1,0.2
+1,"Righteous Aura",20,vis,Visions,0.07,false,Mint,French,20200822,0.1,0.1
+2,"Royal Herbalist",,all,Alliances,0.04,false,Mint,Portuguese,20200822,0.04,0.08
+1,"Royal Herbalist",,all,Alliances,0.04,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Sacred Boon",57,5ed,Fifth Edition,0.1,false,Mint,English,20200822,0.05,0.05
+1,"Sacred Boon",50,ice,Ice Age,0.05,false,Mint,Portuguese,20200822,0.03,0.03
+1,"Samite Alchemist",,hml,Homelands,0.03,false,Mint,English,20200822,0.02,0.02
+2,"Samite Alchemist",,hml,Homelands,0.03,false,Mint,Portuguese,20200822,0.02,0.04
+1,"Samite Healer",58,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.04,0.04
+1,"Seasoned Tactician",17,all,Alliances,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+1,"Seeker",49,4bb,Fourth Edition Foreign Black Border,0.0,false,Mint,Japanese,20200822,0.0,0.0
+1,"Serra Bestiary",60,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Serra Inquisitors",16,hml,Homelands,0.04,false,Mint,English,20200822,0.03,0.03
+1,"Serra Inquisitors",16,hml,Homelands,0.04,false,Mint,Portuguese,20200822,0.03,0.03
+2,"Serra Paladin",17,hml,Homelands,0.05,false,Mint,Portuguese,20200822,0.08,0.16
+1,"Serra's Blessing",25,wth,Weatherlight,0.15,false,Mint,English,20200822,0.17,0.17
+1,"Shield Bearer",52,ice,Ice Age,0.03,false,Mint,Portuguese,20200822,0.04,0.04
+1,"Shield Wall",63,5ed,Fifth Edition,0.05,false,Mint,English,20200822,0.05,0.05
+5,"Soul Shepherd",26,wth,Weatherlight,0.03,false,Mint,Portuguese,20200822,0.02,0.1
+1,"Spirit Link",51,4ed,Fourth Edition,0.27,false,Mint,English,20200822,0.25,0.25
+2,"Sun Clasp",21,vis,Visions,0.04,false,Mint,English,20200822,0.05,0.1
+1,"Sun Clasp",21,vis,Visions,0.04,false,Mint,French,20200822,0.05,0.05
+2,"Sustaining Spirit",18,all,Alliances,0.82,false,Mint,Portuguese,20200822,1.78,3.56
+1,"Swords to Plowshares",54,ice,Ice Age,1.87,false,Mint,English,20200822,3.24,3.24
+1,"Teferi's Honor Guard",22,vis,Visions,0.05,false,Mint,English,20200822,0.05,0.05
+1,"Teferi's Honor Guard",22,vis,Visions,0.05,false,Mint,Portuguese,20200822,0.05,0.05
+3,"Teremko Griffin",43,mir,Mirage,0.05,false,Mint,English,20200822,0.04,0.12
+2,"Teremko Griffin",43,mir,Mirage,0.05,false,Mint,Portuguese,20200822,0.04,0.08
+1,"Unlikely Alliance",20,all,Alliances,0.05,false,Mint,Portuguese,20200822,0.08,0.08
+1,"Unyaro Griffin",44,mir,Mirage,0.06,false,Mint,English,20200822,0.05,0.05
+1,"Visions",54,4ed,Fourth Edition,0.06,false,Mint,Portuguese,20200822,0.08,0.08
+1,"Wall of Resistance",46,mir,Mirage,0.07,false,Mint,Portuguese,20200822,0.06,0.06
+2,"War Elephant",11,arn,Arabian Nights,4.49,false,Mint,English,20200822,24.99,49.98
+2,"Ward of Lights",47,mir,Mirage,0.05,false,Mint,English,20200822,0.04,0.08
+1,"Warrior's Honor",24,vis,Visions,0.02,false,Mint,English,20200822,0.03,0.03
+1,"White Knight",56,4bb,Fourth Edition Foreign Black Border,0.09,false,Mint,Portuguese,20200822,0.0,0.0
+1,"White Ward",45,cei,Intl. Collectors’ Edition,0.98,false,Mint,Portuguese,20200822,4.9,4.9
+3,"Wild Aesthir",,all,Alliances,0.04,false,Mint,Portuguese,20200822,0.04,0.12
+2,"Wild Aesthir",,all,Alliances,0.05,false,Mint,Portuguese,20200822,0.06,0.12
+1,"Zhalfirin Commander",49,mir,Mirage,0.06,false,Mint,Portuguese,20200822,0.05,0.05
+2,"Zhalfirin Knight",50,mir,Mirage,0.05,false,Mint,English,20200822,0.04,0.08
+1,"Zhalfirin Knight",50,mir,Mirage,0.05,false,Mint,Portuguese,20200822,0.04,0.04
